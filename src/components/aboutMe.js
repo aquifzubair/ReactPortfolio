@@ -23,6 +23,7 @@ export default function AboutMe() {
             </p>
             <p align="justify">
               {" "}
+              I am currently working as a front-end Developer in a company named LIFTOFFLLC.
               I have completed a full stack web development course from
               Udemy.com
               <a
