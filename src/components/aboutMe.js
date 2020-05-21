@@ -19,7 +19,7 @@ export default function AboutMe() {
             <p align="justify">
               I was working as a front-end Developer in a company named LIFTOFF
               LLC. Things were going smooth but I became the victim of layoff
-              due to this panademic.
+              due to this pandemic.
             </p>
             <p align="justify">
               I am a Bachelor of Engineering graduate in computer science from

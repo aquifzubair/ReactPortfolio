@@ -19,9 +19,9 @@ export default function Internship() {
           </h3>
 
           <p>
-            I worked here as a Junior Front-End Developer. I worked here on
-            React, JavaScript, Git and Agile(Jira) Project Managemt Methodology.
-            I learned here, how to do team work efficiently.
+            I worked here as a Junior Front-End Developer.Developed Login,
+            SignUp, and Profile page using React hooks, react - redux. I learned
+            here, how to do team work efficiently.
           </p>
         </div>
 
