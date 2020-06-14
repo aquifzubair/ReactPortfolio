@@ -4,18 +4,18 @@ import pdf from './../resume/aquif_resume.pdf';
 
 export default function AboutMe() {
   return (
-    <div class="card" style={{ marginTop: '-20px' }} id="aboutMe" >
-      <div class="card-block">
+    <div className="card" style={{ marginTop: '-20px' }} id="aboutMe" >
+      <div className="card-block">
         <h2>
           <center>About me</center>
         </h2>
-        <div class="row">
-          <div class="col-md-4">
+        <div className="row">
+          <div className="col-md-4">
             <p>
-              <img class="img-responsive" alt="" src={image} />
+              <img className="img-responsive" alt="" src={image} />
             </p>
           </div>
-          <div class="col-md-8">
+          <div className="col-md-8">
             <p align="justify">
               I was working as a front-end Developer in a company named LIFTOFF
               LLC. Things were going smooth but I became the victim of layoff
@@ -58,7 +58,7 @@ export default function AboutMe() {
             <br />
             <br />
             <i
-              class="fa fa-file-pdf-o"
+              className="fa fa-file-pdf-o"
               style={{ fontSize: '30px', color: 'red' }}
             ></i>
             <br />

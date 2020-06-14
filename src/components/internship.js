@@ -2,13 +2,13 @@ import React from 'react';
 
 export default function Internship() {
   return (
-    <div class="card" id="internship">
-      <div class="card-block">
+    <div className="card" id="internship">
+      <div className="card-block">
         <h2>Work Experience and Internships</h2>
 
-        <div class="work-experience">
-          <small class="date">Feb - June 2020</small>
-          <h3 class="h5 date-title">
+        <div className="work-experience">
+          <small className="date">Feb - June 2020</small>
+          <h3 className="h5 date-title">
             Trainee Software Engeneer-{' '}
             <a
               href="https://www.liftoffllc.com/"
@@ -25,9 +25,9 @@ export default function Internship() {
           </p>
         </div>
 
-        <div class="work-experience">
-          <small class="date">September 2019</small>
-          <h3 class="h5 date-title">
+        <div className="work-experience">
+          <small className="date">September 2019</small>
+          <h3 className="h5 date-title">
             JavaScript Trainee -{' '}
             <a href="https://propel.school/" title="" target="_blank">
               Propel School
@@ -42,9 +42,9 @@ export default function Internship() {
           </p>
         </div>
 
-        <div class="work-experience">
-          <small class="date">June - July 2018</small>
-          <h3 class="h5 date-title">
+        <div className="work-experience">
+          <small className="date">June - July 2018</small>
+          <h3 className="h5 date-title">
             Python Trainee -{' '}
             <a href="https://nareshit.in/" title="Create professionnal website">
               Naresh I Technology

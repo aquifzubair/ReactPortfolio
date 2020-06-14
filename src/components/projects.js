@@ -5,23 +5,23 @@ import image4 from '../images/img-04.jpg'
 
 export default function Projects(){
     return (
-        <div class="card" id="project">
-          <div class="card-block">
+        <div className="card" id="project">
+          <div className="card-block">
             <h2>Projects</h2>
-            <div class="row">
-              <div class="col-md-4">
-                <img style={{height:"188px"}} src={image2} class="img-responsive" alt="" />
-                <h3 class="h5">Resume Classifier</h3>
+            <div className="row">
+              <div className="col-md-4">
+                <img style={{height:"188px"}} src={image2} className="img-responsive" alt="" />
+                <h3 className="h5">Resume classNameifier</h3>
                 <p>May 2019</p>
               </div>
-              <div class="col-md-4">
-                <img style={{height:"188px"}} src={image3} class="img-responsive" alt="" />
-                <h3 class="h5">Online Food ordering System</h3>
+              <div className="col-md-4">
+                <img style={{height:"188px"}} src={image3} className="img-responsive" alt="" />
+                <h3 className="h5">Online Food ordering System</h3>
                 <p>Novemeber 2018</p>
               </div>
-              <div class="col-md-4">
-                <img sstyle={{height:"188px"}} src={image4} class="img-responsive" alt="" />
-                <h3 class="h5">Background Generator</h3>
+              <div className="col-md-4">
+                <img sstyle={{height:"188px"}} src={image4} className="img-responsive" alt="" />
+                <h3 className="h5">Background Generator</h3>
                 <p>Aug 2018</p>
               </div>
             </div>

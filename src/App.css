@@ -5796,5 +5796,19 @@ label {
     color:'white';
 }
 
+#nav-link {
+
+    color: white;
+}
+
+.center {
+    /* margin: auto;
+    width: 10%;
+    padding: 10px; */
+    font-size:40px;
+    font-weight:bold;
+    color:white;
+  }
+
 
 /*# sourceMappingURL=main.bc58148c.map*/

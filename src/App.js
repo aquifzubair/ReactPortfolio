@@ -20,11 +20,11 @@ function App() {
       <header>
       <Navigation />
       </header>
-      <main class="content-wrapper" style={{marginTop:'20px'}}>
+      <main className="content-wrapper" style={{marginTop:'20px'}}>
         <Header />
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12">
+        <div className="container">
+          <div className="row">
+            <div className="col-xs-12">
               <AboutMe />
               <Projects />
               <Skill />
