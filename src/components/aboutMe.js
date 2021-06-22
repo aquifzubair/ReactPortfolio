@@ -17,9 +17,9 @@ export default function AboutMe() {
           </div>
           <div className="col-md-8">
             <p align="justify">
-              I was working as a front-end Developer in a company named LIFTOFF
-              LLC. Things were going smooth but I became the victim of layoff
-              due to this pandemic.
+              I am working as a Software Engineer in Lal10. I am responsible for 
+              creating front-end component using Angular and developing API's using NodeJs.
+
             </p>
             <p align="justify">
               I am a Bachelor of Engineering graduate in computer science from
@@ -46,11 +46,10 @@ export default function AboutMe() {
               >
                 (link of certificate).{' '}
               </a>
-              As a final year degree project, I made a Resume Classifier web
-              app. This web app is used to classify the resume according to your
-              need from bundle of resumes. I have done forty days training on
-              Python at Naresh I Technology, Hyedrabad. In this training i
-              learned basic concept of Python and OOPS.
+              I successfully completed three months MERN Stack developer from Mountblue Technology, 
+              And currently working as a Software Engineer in LAL10. In this training i created many Projects
+              three of them is listed below in project section such as Spotify clone, Project Issue tracker and
+              Movie cards using open API.
             </p>
             <strong>
               <i>Checkout my resume below</i>

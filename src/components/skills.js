@@ -6,6 +6,13 @@ export default function Skill() {
       <div className="card-block">
         <h2>My Skills</h2>
         <div className="row">
+        <div className="col-md-4">
+            <div className="language-experience">
+              <h3 className="h5">
+                Html & Css <small>Proficient</small>
+              </h3>
+            </div>
+          </div>
           <div className="col-md-4">
             <div className="language-experience">
               <h3 className="h5">
@@ -23,21 +30,14 @@ export default function Skill() {
           <div className="col-md-4">
             <div className="language-experience">
               <h3 className="h5">
-                Html <small>Proficient</small>
+                Angular <small>Intermediate</small>
               </h3>
             </div>
           </div>
           <div className="col-md-4">
             <div className="language-experience">
               <h3 className="h5">
-                Css <small>Proficient</small>
-              </h3>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div className="language-experience">
-              <h3 className="h5">
-                C++ <small>Intermediate</small>
+                NodeJs <small>Proficient</small>
               </h3>
             </div>
           </div>

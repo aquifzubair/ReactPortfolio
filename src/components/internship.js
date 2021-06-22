@@ -7,6 +7,21 @@ export default function Internship() {
         <h2>Work Experience and Internships</h2>
 
         <div className="work-experience">
+          <small className="date">June 2020 - current</small>
+          <h3 className="h5 date-title">
+            Software Engineer{' '}
+            <a href="https:lal10.com" title="Create professionnal website">
+              Lal10
+            </a>
+          </h3>
+
+          <p>
+            Working as a MEAN stack Developer. I am responsible for making front-end 
+            component using Angular and as well as back-end APIs using NodeJs. Learning under the guidance of experienced team members. 
+          </p>
+        </div>
+
+        <div className="work-experience">
           <small className="date">Feb - June 2020</small>
           <h3 className="h5 date-title">
             Trainee Software Engeneer-{' '}
@@ -42,21 +57,6 @@ export default function Internship() {
           </p>
         </div>
 
-        <div className="work-experience">
-          <small className="date">June - July 2018</small>
-          <h3 className="h5 date-title">
-            Python Trainee -{' '}
-            <a href="https://nareshit.in/" title="Create professionnal website">
-              Naresh I Technology
-            </a>
-          </h3>
-
-          <p>
-            Forty days training on Python as summer internship in Naresh I
-            Technology, Hyedrabad. In this training, I learned intermediate
-            level concepts of Python and Object Oreinted Programming.{' '}
-          </p>
-        </div>
       </div>
     </div>
   );
