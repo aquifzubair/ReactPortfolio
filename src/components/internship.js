@@ -44,7 +44,7 @@ export default function Internship() {
           <small className="date">September 2019</small>
           <h3 className="h5 date-title">
             JavaScript Trainee -{' '}
-            <a href="https://propel.school/" title="" target="_blank">
+            <a href="https://propel.school/" title="" target="_blank" rel="noopener noreferrer" >
               Propel School
             </a>
           </h3>

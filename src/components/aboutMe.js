@@ -32,7 +32,7 @@ export default function AboutMe() {
               Udemy.com
               <a
                 href="https://www.udemy.com/certificate/UC-XWHS2FVE/"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer" 
               >
                 {' '}
                 (link of certificate).
@@ -42,7 +42,7 @@ export default function AboutMe() {
               Data Structure and Algorithm Certificate from Freecodecamp
               <a
                 href="https://www.freecodecamp.org/certification/aquifzubair/javascript-algorithms-and-data-structures"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer" 
               >
                 (link of certificate).{' '}
               </a>
@@ -61,7 +61,7 @@ export default function AboutMe() {
               style={{ fontSize: '30px', color: 'red' }}
             ></i>
             <br />
-            <a href={pdf} style={{ fontSize: '20px' }} target="_blank">
+            <a href={pdf} style={{ fontSize: '20px' }} target="_blank" rel="noopener noreferrer" >
               <b>Resume</b>
             </a>
           </div>

@@ -19,7 +19,7 @@ export default function ContactMe() {
               Primary Mail id :-{' '}
               <a
                 href="mailto:<nowiki>aquifzubair98@gmail.com? subject = subject.txt"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer" 
               >
                 {' '}
                 aquifzubair98@gmail.com{' '}
@@ -30,7 +30,7 @@ export default function ContactMe() {
               Secondry Mail id :-{' '}
               <a
                 href="mailto:<nowiki>aaquifzubair@gmail.com? subject = subject.txt"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer" 
               >
                 aaquifzubair@gmail.com{' '}
               </a>
